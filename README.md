@@ -1,6 +1,8 @@
 # 🧏 수어와 함께하는 다양한 세상, SUDA
-
-![수다 발표 ppt](https://github.com/luckybiki/suda_pub/assets/77850103/9a8df97d-c173-4bd7-9317-4262a7c710b7)
+[![수다 메인 소개 이미지](https://github.com/luckybiki/suda_pub/assets/77850103/9a8df97d-c173-4bd7-9317-4262a7c710b7)](http://suda.my)
+<main align="center">
+    <h1 align="center">👆 SUDA 바로가기👆</h1> 
+</main>
 
 <!-- ### 👄 **말로 소통** 🤘 **손으로 소통** 🖋️ **글로 소통 ,** 우리는 다양한 방법으로 소통해요 -->
 
@@ -23,14 +25,6 @@
 <ins>📬 친구와 수어로 메일을 주고받을 수 있다고 !?</ins>
 
 ### SUDA 에서 당신의 언어를, 소통을, 즐거움을 더욱 풍성하게 만들어보세요 !
-
-# [🤘 SUDA 사용해보기 ✌️](http://suda.my/)
-
-# 📢 프로젝트 개요
-
-과정명: [서울시뉴딜일자리 IT 인턴] 클라우드 기반 AI 응용 개발자 양성과정 </br>
-프로젝트 명: 수다(SUDA) </br>
-개발 기간: 2024. 5. 7 ~ 2024. 7. 3</br>
 
 # 📺 서비스 시연영상
 
