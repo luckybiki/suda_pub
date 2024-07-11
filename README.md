@@ -53,29 +53,30 @@
 <br>
 
 ## ✨ 페이지별 기능
-|랜딩페이지|메인페이지|
-|:---:|:---:|
-|<img alt="랜딩페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/5354604a-7274-4352-a01a-25b6fd45397b" width="400" height="225">|<img alt="랜딩페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/43277e21-8a0d-4d82-a576-417af5bef168" width="400" height="225">|
-|<b>메일 메인 페이지</b>|<b>메일 확인</b>|
-|<img alt="메일 메인 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/68751c80-024e-4142-b421-b7289bb19b08" width="400" height="225">|<img alt="메일 확인" src="https://github.com/luckybiki/suda_pub/assets/77850103/48e8d766-7923-4c69-9ac7-f9e63880b8c9" width="400" height="225">|
-|<b>메일 쓰기 페이지</b>|<b>메일 쓰기</b>|
-|<img width="1728" alt="메일 쓰기 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/453a3235-086e-4135-b151-acf2612c67b3">|<img width="1728" alt="메일 쓰기" src="https://github.com/luckybiki/suda_pub/assets/77850103/924473bf-c5c7-4550-ad4f-b7f952dbf5a1">|
-|<b>친구 목록 페이지</b>|<b>친구 추가 페이지</b>|
-|<img width="1728" alt="친구 목록 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/1c6d313b-8ca9-4910-9282-7f22a29e1bef">|<img width="1728" alt="친구 추가 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/ae6a6ffc-8b3c-4820-b567-729e5d82eba4">|
-|<b>수어 에듀 페이지</b>|<b>수어 학습 페이지</b>|
-|<img width="1728" alt="수어 에듀 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/8c743d2f-1bf1-4335-b880-9bbb94ce58d6">|<img width="1723" alt="수어 학습 페이지 농" src="https://github.com/luckybiki/suda_pub/assets/77850103/37963ff4-10c2-44aa-82b8-5c453e43a367">|
-|<b>수어 한글 연습</b>|<b>수어 시험 페이지</b>|
-|<img width="1371" alt="수어 한글 연습" src="https://github.com/luckybiki/suda_pub/assets/77850103/0e0c7145-5b42-4d8d-9ad6-69ffd2e76f7d">|<img width="1728" alt="수어 시험 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/34beea1b-378a-4ffc-9345-8d44f020cc2e">|
-|<b>수어 시험 결과</b>|<b>수어 오답노트 페이지</b>|
-|<img width="1728" alt="수어 시험 결과" src="https://github.com/luckybiki/suda_pub/assets/77850103/77883a36-9de1-45b8-b023-38a9cbc42ed8">|<img width="725" alt="수어 오답노트 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/5e0a5779-4d3a-4ceb-bca2-0915abd2b673">|
-|<b>수어 오답노트 재시험</b>|<b>수어 오답노트 정답 모달</b>|
-|<img width="856" alt="수어 오답노트 재시험" src="https://github.com/luckybiki/suda_pub/assets/77850103/f3ef1570-7c67-4cc6-96f3-18db9e5b5ef8">|<img width="855" alt="수어 오답노트 정답 모달" src="https://github.com/luckybiki/suda_pub/assets/77850103/81d2c5d2-0c27-44a1-8739-aab24fb23fdc">|
-|<b>수어 오답노트 오답 모달</b>|<b>수어 오답노트 결과 페이지</b>|
-|<img width="857" alt="수어 오답노트 오답 모달" src="https://github.com/luckybiki/suda_pub/assets/77850103/b2dcce44-b693-4566-abe1-4427ff2d9bf8">|<img width="692" alt="수어 오답노트 결과 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/a281fd8c-0795-44d8-ba50-08c0a08c3b80">|
-|<b>수어 강의 페이지</b>|<b>수어 강의 진행 페이지</b>|
-|<img src="https://github.com/luckybiki/suda_pub/assets/77850103/350dc01f-e104-41f3-8f0c-3a0ec64f0aae">|<img width="1727" alt="수어 강의 진행 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/ad63fa1e-74cf-4b7e-8d23-88260563d3e7">
-|<b>수어 실시간 학습</b>|<b>수어 강의 완료 모달</b>|
-<img src="https://github.com/luckybiki/suda_pub/assets/77850103/869c3042-db2a-4b92-82d2-17006b72e78e">|<img src="https://github.com/luckybiki/suda_pub/assets/77850103/d167fd2e-58a3-4d92-b6c7-73177c594646">|
+
+|                                                                           랜딩페이지                                                                            |                                                                            메인페이지                                                                            |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|        <img alt="랜딩페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/5354604a-7274-4352-a01a-25b6fd45397b" width="400" height="225">         |         <img alt="랜딩페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/43277e21-8a0d-4d82-a576-417af5bef168" width="400" height="225">         |
+|                                                                     <b>메일 메인 페이지</b>                                                                     |                                                                         <b>메일 확인</b>                                                                         |
+|     <img alt="메일 메인 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/68751c80-024e-4142-b421-b7289bb19b08" width="400" height="225">      |         <img alt="메일 확인" src="https://github.com/luckybiki/suda_pub/assets/77850103/48e8d766-7923-4c69-9ac7-f9e63880b8c9" width="400" height="225">          |
+|                                                                     <b>메일 쓰기 페이지</b>                                                                     |                                                                         <b>메일 쓰기</b>                                                                         |
+|    <img  alt="메일 쓰기 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/453a3235-086e-4135-b151-acf2612c67b3"  width="400" height="225">     |        <img  alt="메일 쓰기" src="https://github.com/luckybiki/suda_pub/assets/77850103/924473bf-c5c7-4550-ad4f-b7f952dbf5a1"  width="400" height="225">         |
+|                                                                     <b>친구 목록 페이지</b>                                                                     |                                                                     <b>친구 추가 페이지</b>                                                                      |
+|    <img  alt="친구 목록 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/1c6d313b-8ca9-4910-9282-7f22a29e1bef"  width="400" height="225">     |     <img  alt="친구 추가 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/ae6a6ffc-8b3c-4820-b567-729e5d82eba4"  width="400" height="225">     |
+|                                                                     <b>수어 에듀 페이지</b>                                                                     |                                                                     <b>수어 학습 페이지</b>                                                                      |
+|    <img  alt="수어 에듀 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/8c743d2f-1bf1-4335-b880-9bbb94ce58d6"  width="400" height="225">     |    <img alt="수어 학습 페이지 농" src="https://github.com/luckybiki/suda_pub/assets/77850103/37963ff4-10c2-44aa-82b8-5c453e43a367"  width="400" height="225">    |
+|                                                                      <b>수어 한글 연습</b>                                                                      |                                                                     <b>수어 시험 페이지</b>                                                                      |
+|     <img  alt="수어 한글 연습" src="https://github.com/luckybiki/suda_pub/assets/77850103/0e0c7145-5b42-4d8d-9ad6-69ffd2e76f7d"  width="400" height="225">      |     <img  alt="수어 시험 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/34beea1b-378a-4ffc-9345-8d44f020cc2e"  width="400" height="225">     |
+|                                                                      <b>수어 시험 결과</b>                                                                      |                                                                   <b>수어 오답노트 페이지</b>                                                                    |
+|     <img  alt="수어 시험 결과" src="https://github.com/luckybiki/suda_pub/assets/77850103/77883a36-9de1-45b8-b023-38a9cbc42ed8"  width="400" height="225">      |   <img alt="수어 오답노트 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/5e0a5779-4d3a-4ceb-bca2-0915abd2b673"  width="400" height="225">    |
+|                                                                   <b>수어 오답노트 재시험</b>                                                                   |                                                                  <b>수어 오답노트 정답 모달</b>                                                                  |
+|  <img  alt="수어 오답노트 재시험" src="https://github.com/luckybiki/suda_pub/assets/77850103/f3ef1570-7c67-4cc6-96f3-18db9e5b5ef8"  width="400" height="225">   |  <img alt="수어 오답노트 정답 모달" src="https://github.com/luckybiki/suda_pub/assets/77850103/81d2c5d2-0c27-44a1-8739-aab24fb23fdc"  width="400" height="225">  |
+|                                                                 <b>수어 오답노트 오답 모달</b>                                                                  |                                                                 <b>수어 오답노트 결과 페이지</b>                                                                 |
+| <img  alt="수어 오답노트 오답 모달" src="https://github.com/luckybiki/suda_pub/assets/77850103/b2dcce44-b693-4566-abe1-4427ff2d9bf8"  width="400" height="225"> | <img alt="수어 오답노트 결과 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/a281fd8c-0795-44d8-ba50-08c0a08c3b80"  width="400" height="225"> |
+|                                                                     <b>수어 강의 페이지</b>                                                                     |                                                                   <b>수어 강의 진행 페이지</b>                                                                   |
+|                <img src="https://github.com/luckybiki/suda_pub/assets/77850103/350dc01f-e104-41f3-8f0c-3a0ec64f0aae"  width="400" height="225">                 |  <img  alt="수어 강의 진행 페이지" src="https://github.com/luckybiki/suda_pub/assets/77850103/ad63fa1e-74cf-4b7e-8d23-88260563d3e7"  width="400" height="225">   |
+|                                                                     <b>수어 실시간 학습</b>                                                                     |                                                                    <b>수어 강의 완료 모달</b>                                                                    |
+|                <img src="https://github.com/luckybiki/suda_pub/assets/77850103/869c3042-db2a-4b92-82d2-17006b72e78e"  width="400" height="225">                 |                 <img src="https://github.com/luckybiki/suda_pub/assets/77850103/d167fd2e-58a3-4d92-b6c7-73177c594646"  width="400" height="225">                 |
 
 <br>
 
