@@ -14,10 +14,10 @@
 
 # 👨‍👩‍👦‍👦 팀원 정보
 
-|                      박리나                      |                      김종회                      |                      노유연                      |                      박지은                      |                      최정원                      |
+|                      👑 박리나                      |                      김종회                      |                      노유연                      |                      박지은                      |                      최정원                      |
 | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
 | <img alt="리나" src="https://github.com/luckybiki/suda_pub/assets/77850103/f209bd3c-c418-46bc-b8cf-8f9864202fb3" height="100" width="100"> | <img alt="종회" src="https://github.com/luckybiki/suda_pub/assets/77850103/43495a85-abdc-4352-b69a-77f48960e77b" height="100" width="100"> | <img alt="유연" src="https://github.com/luckybiki/suda_pub/assets/77850103/39f0411e-599a-493b-824a-730eecba2cb2" height="100" width="100"> | <img alt="지은" src="https://github.com/luckybiki/suda_pub/assets/77850103/d0c11068-9c76-4082-9be8-33fcd1857dbc" height="100" width="100"> | <img alt="정원" src="https://github.com/luckybiki/suda_pub/assets/77850103/aa99c1ce-358b-4f68-922a-155ca511c0ef" height="100" width="100"> |
-|                     왼쪽정렬                     |                    오른쪽정렬                    |                     중앙정렬                     |                     중앙정렬                     |                     중앙정렬                     |
+|                     [@leenapark](https://github.com/leenapark)                     |                    [@Dr-eong](https://github.com/Dr-eong)                 |                     중앙정렬                     |                     중앙정렬                     |                     중앙정렬                     |
 
 # 🛠️ 기술 스택
 
